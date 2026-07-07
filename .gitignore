@@ -1,2 +1,2 @@
-.claude/
-builds/
+.claude/settings.local.json
+builds/*.apk
