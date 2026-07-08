@@ -4,6 +4,7 @@ Newest first. Updated automatically by `/release`.
 
 | Date (UTC) | Version | Download Link |
 |------------|---------|----------------|
+| 2026-07-08 16:06 | v1.0.0-beta.10 | https://github.com/ctrl-raj/rembo-releases/releases/download/v1.0.0-beta.10/Rembo_Secure_Beta.apk |
 | 2026-07-07 15:02 | v1.0.0-beta.9 | https://github.com/ctrl-raj/rembo-releases/releases/download/v1.0.0-beta.9/Rembo_Secure_Beta.apk |
 | 2026-06-16 08:33 | v1.0.0-beta.8 | https://github.com/ctrl-raj/rembo-releases/releases/download/v1.0.0-beta.8/Rembo_Secure_BETA.apk |
 | 2026-05-30 08:53 | v1.0.0-beta.7 | https://github.com/ctrl-raj/rembo-releases/releases/download/v1.0.0-beta.7/Rembo_Secure_Beta.apk |
