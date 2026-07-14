@@ -1,5 +1,5 @@
 .claude/settings.local.json
-builds/*.apk
+builds/
 
 workflows/
 libs/
