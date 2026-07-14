@@ -2,7 +2,7 @@
 
 Rembo is a unified operating system for sports turf operators. It replaces the chaos of WhatsApp-based booking management with a live operator dashboard and a player-facing mobile app.
 
-Visit [rembo.spce](https://rembo.spcae) for more information
+Visit [rembo.spce](https://rembo.space) for more information
 
 > "Run your turf like a serious operation."
 
